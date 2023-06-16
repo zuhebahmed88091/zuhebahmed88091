@@ -24,4 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zuhebahmed88091&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Thank You 👋 <div align='center'>  <img src='https://github.com/Yordinia/yordinia/blob/main/Module-2/img/Rabbit.png' style='width:10vw'> </div>  <div align='right'>  Farewell! </div>
+ 
+# <span> <i> 💡 Reminder </i> <h2> 📌 You may Check out my pinned projects below </h2>  </span> 
+
