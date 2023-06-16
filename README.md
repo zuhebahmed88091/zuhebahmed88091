@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zuheb Ahmed</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" hight="1000" width="1500"><br>:student: I’m currently a full-stack software development program's student at Microverse.<br>:sunglasses: I’m looking for students to collaborate and study together.<br>💬 Ask me anything let's do something and play with some code.<br>:video_game: Fun fact | I love gaming.
-# 💫 About Me:
-- 🌱 I’m currently learning **Full Stack Web Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/zuhebahmed88091?tab=repositories](https://github.com/zuhebahmed88091?tab=repositories)<br><br>- 📫 How to reach me **zuhebahmed101625@gmail.com**<br><br>- ⚡ Fun fact **I love gaming**
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.zuheb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zuheb-ahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zuhebahmed88091) 
